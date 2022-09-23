@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Victor Actualizado",
+      "empresa": "oru",
+      "email": "vsalaz00@live.com",
+      "telefono": "1131331",
+      "notas": "Cliente recomendado",
+      "id": 1
+    },
+    {
+      "nombre": "Cali",
+      "empresa": "Rompedora",
+      "email": "cali@test.com",
+      "telefono": "",
+      "notas": "",
+      "id": 5
+    },
+    {
+      "nombre": "Salem",
+      "empresa": "Rompedor",
+      "email": "salem@test.com",
+      "telefono": "",
+      "notas": "Solicita rascador",
+      "id": 6
+    }
+  ]
+}
